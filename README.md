@@ -4,20 +4,18 @@ Computer Science Student & Full Stack Developer
 
 ## 🚀 Technologies
 - Python
+- Java
 - Flask
 - MongoDB
 - Docker
 - Android
 - Kotlin
 - C++
-- React
-- TypeScript
+- OpenGL
 
 ## 📌 Featured Projects
 - Image Ads SDK
-- AI Team Battle Simulation
-- Drupal Docker Project
 
 ## 📫 Contact
 - GitHub: https://github.com/adam-eljohari
-- 
+- gmail: adameljohari84@gmail.com
