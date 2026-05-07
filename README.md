@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/adam-eljohari/adam-eljohari/main/github_banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/adam-eljohari/adam-eljohari/main/github_banner.PNG" width="100%" />
 
 # Hi, I'm Adam 👋
 
