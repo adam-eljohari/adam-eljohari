@@ -6,6 +6,9 @@
 
 Computer Science Student & Full Stack Developer
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adam-eljohari/adam-eljohari/output/github-contribution-grid-snake.svg" />
+</p>
 ## 🚀 Technologies
 - Python
 - Java
