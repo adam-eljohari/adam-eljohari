@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**adam-eljohari/adam-eljohari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student & Full Stack Developer
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- Python
+- Flask
+- MongoDB
+- Docker
+- Android
+- Kotlin
+- C++
+- React
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Image Ads SDK
+- AI Team Battle Simulation
+- Drupal Docker Project
+
+## 📫 Contact
+- GitHub: https://github.com/adam-eljohari
+- 
