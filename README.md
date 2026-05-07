@@ -1,13 +1,17 @@
 <img src="https://raw.githubusercontent.com/adam-eljohari/adam-eljohari/main/github_banner.PNG" width="100%" />
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Adam+Eljohari;Computer+Science+Student;Java+%7C+OpenGL+Developer;C%2B%2B+%7C+Python+%7C+Kotlin" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
 </p>
 # Hi, I'm Adam 👋
 
 Computer Science Student & Full Stack Developer
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adam-eljohari/adam-eljohari/output/github-contribution-grid-snake.svg" />
+
 </p>
 ## 🚀 Technologies
 - Python
@@ -20,6 +24,9 @@ Computer Science Student & Full Stack Developer
 - C++
 - OpenGL
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adam-eljohari/adam-eljohari/output/github-contribution-grid-snake.svg" />
+  
 ## 📌 Featured Projects
 - Image Ads SDK
 
